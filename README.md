@@ -1,4 +1,4 @@
- # Pokémon - Análisando a Pokedex
+ # Pokémon - Analisando a Pokedex
 
 ## A Pokedex
 ![pngwing com](https://user-images.githubusercontent.com/95966908/150204079-a4dd23d8-129f-4aac-99fd-485e4e3c8685.png)
