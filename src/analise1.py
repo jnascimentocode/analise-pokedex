@@ -11,6 +11,9 @@ data_gen = gen_df['national_number']
 data_gen = pd.DataFrame(data_gen)
 print(data_gen)
 print('----------------------------------')
+
+print(pokemon_df.shape)
+
 fig = px.bar(data_gen,
             text_auto=True,
             title='Qtde Pokémon x Geração'
